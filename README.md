@@ -24,7 +24,7 @@ As a web developer, I excel in team environments, handling pressure and meeting 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/mustapha-dauda-05370822a/
 
 <!--
 
