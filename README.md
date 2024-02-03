@@ -8,11 +8,11 @@ As a web developer, I excel in team environments, handling pressure and meeting 
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>NITDA IT HUB (NIHUB)  Website</b>
-  - [NITDA IT HUB (NIHUB)  Website](http://nihub.futminna.edu.ng/)
+  - [More about NITDA IT HUB (NIHUB)  Website](http://nihub.futminna.edu.ng/)
 - <b>International Computing and Communication Conference (I3C) Wensite</b>
-  - [I3C Website](https://i3c.futminna.edu.ng/) <b><i>(Finalizing details)</b></i>
+  - [More about I3C Website](https://i3c.futminna.edu.ng/) <b><i>(Finalizing details)</b></i>
 - <b>Just Dey Learn Website</b>
-  - [Just Dey Learn Website](https://justdeylearn.com)
+  - [More about Just Dey Learn Website](https://justdeylearn.com)
 
 <h2> 🤳 Connect with me:</h2>
 
