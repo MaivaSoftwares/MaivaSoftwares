@@ -12,7 +12,7 @@ As a web developer, I excel in team environments, handling pressure and meeting 
 - <b>International Computing and Communication Conference (I3C) Wensite</b>
   - [More about I3C Website](https://i3c.futminna.edu.ng/) <b><i>(Finalizing details)</b></i>
 - <b>Just Dey Learn Website</b>
-  - [More about Just Dey Learn Website]([https://github.com/MaivaSoftwares/JUSTDEYLEARN/blob/main/README.md])
+  - [More about Just Dey Learn Website](https://github.com/MaivaSoftwares/JUSTDEYLEARN/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
