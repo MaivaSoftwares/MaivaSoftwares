@@ -9,7 +9,7 @@ As a web developer, I excel in team environments, handling pressure and meeting 
 
 - <b>NITDA IT HUB (NIHUB)  Website</b>
   - [More about NITDA IT HUB (NIHUB)  Website](https://github.com/MaivaSoftwares/NIHUB/blob/main/README.md)
-- <b>International Computing and Communication Conference (I3C) Wensite</b>
+- <b>International Computing and Communication Conference (I3C) Website</b>
   - [More about I3C Website](https://github.com/MaivaSoftwares/IC3/blob/main/README.md) 
 - <b>Just Dey Learn Website</b>
   - [More about Just Dey Learn Website](https://github.com/MaivaSoftwares/JUSTDEYLEARN/blob/main/README.md)
