@@ -1,5 +1,10 @@
-<h1>Hi, I am Mustapha! <br/><a href="https://github.com/joshmadakor1">Web Developer</a>
-  
+<h1>Hi, I am Mustapha! <br/><a href="">Web Developer</a></h1>
+
+<h2>PROFILE SUMMARY</h2>
+<p >I am an adaptable and dedicated web developer proficient in a range of web technologies, including HTML/CSS, JavaScript, UI/UX, and WordPress CMS. My philosophy revolves around creating websites that not only fulfill their communication purpose but also captivates users through visual appeal and user-friendly design.
+
+As a web developer, I thrive in collaborative team environments, excelling under pressure and tight deadlines. My ability to work effectively within a team setting significantly contributes to the successful completion of projects. As a web developer, I thrive in collaborative team environments, excelling under pressure and tight deadlines. My ability to work effectively within a team setting significantly contributes to the successful completion of projects
+</p>
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>NITDA IT HUB (NIHUB)  Website</b>
