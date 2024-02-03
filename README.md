@@ -8,7 +8,7 @@ As a web developer, I excel in team environments, handling pressure and meeting 
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>NITDA IT HUB (NIHUB)  Website</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [NITDA IT HUB (NIHUB)  Website](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>International Computing and Communication Conference (I3C) Wensite</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Just Dey Learn Website</b>
