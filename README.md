@@ -4,6 +4,8 @@
 <p >I am a full-stack software developer proficient in modern web technologies, including 
 React, Next.js, and Express.js. I specialize in building scalable, user-centric applications 
 that combine seamless functionality with an intuitive and visually appealing design. 
+
+  
 With a strong background in DevOps, system administration, backend development, and 
 database management, I excel at deploying and maintaining robust applications that meet 
 user needs. I thrive in collaborative team environments, work well under pressure, and 
