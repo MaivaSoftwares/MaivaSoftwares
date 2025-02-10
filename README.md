@@ -1,4 +1,4 @@
-<h1>Hi, I am Mustapha! <br/><a href="">Web Developer</a></h1>
+<h1>Hi, I am Mustapha! <br/><a href="">Software Engineer</a></h1>
 
 <h2>PROFILE SUMMARY</h2>
 <p >I am an adaptable and dedicated web developer proficient in a range of web technologies, including HTML/CSS, JavaScript, UI/UX, and WordPress CMS. My philosophy revolves around creating websites that not only fulfill their communication purpose but also captivates users through visual appeal and user-friendly design.
