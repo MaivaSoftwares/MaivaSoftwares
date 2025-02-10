@@ -13,12 +13,12 @@ consistently deliver high-quality solutions within tight deadlines.
 </p>
 <h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>NITDA IT HUB (NIHUB)  Website</b>
-  - [More about NITDA IT HUB (NIHUB)  Website](https://github.com/MaivaSoftwares/NIHUB/blob/main/README.md)
-- <b>International Computing and Communication Conference (I3C) Website</b>
+- <b>Bele The Bull</b>
+  - [More about Bele the Bull Website](https://github.com/MaivaSoftwares/NIHUB/blob/main/README.md)
+- <b></b>
   - [More about I3C Website](https://github.com/MaivaSoftwares/IC3/blob/main/README.md) 
-- <b>Just Dey Learn Website</b>
-  - [More about Just Dey Learn Website](https://github.com/MaivaSoftwares/JUSTDEYLEARN/blob/main/README.md)
+- <b>Bele the Bull Launchpad</b>
+  - [more about Bele the Bull Launchpad](https://github.com/MaivaSoftwares/JUSTDEYLEARN/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
