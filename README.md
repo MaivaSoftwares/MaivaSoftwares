@@ -4,10 +4,8 @@
 <p >With a passion in engineering, I build systems. I love programming, I love finding solutions to critical problems. 
 
   
-With a strong background in DevOps, system administration, backend development, and 
-database management, I excel at deploying and maintaining robust applications that meet 
-user needs. I thrive in collaborative team environments, work well under pressure, and 
-consistently deliver high-quality solutions within tight deadlines. 
+With a sound background in DevOps, system administration, backend development, and 
+database management, I excel at deploying and maintaining robust applications. I would love to mention that I love to work with a team. 
 </p>
 <h2>Project Highlights</h2>
 
