@@ -7,6 +7,12 @@
 With a sound background in DevOps, system administration, backend development, and 
 database management, I excel at deploying and maintaining robust applications. I would love to mention that I love to work with a team. 
 </p>
+<h2>My Stack 🙂</h2>
+- <b> Python </b>
+- <b> C++ </b>
+- <b> MATLAB </b>
+- <b> TypeScript </b>
+- <b> JavaScript </b>
 <h2>Project Highlights</h2>
 
 - <b>Bele The Bull</b>
