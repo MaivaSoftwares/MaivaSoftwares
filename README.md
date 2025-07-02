@@ -1,45 +1,33 @@
-<h1>Hi, I am Mustapha! <br/><a href="">Software Engineer</a></h1>
+# Hi, I'm Mustapha! 👋  
+### Software Engineer & Systems Builder
 
-<h2>PROFILE SUMMARY</h2>
-<p >With a passion in engineering, I build systems. I love programming, I love finding solutions to critical problems. 
+---
 
-  
-With a sound background in DevOps, system administration, backend development, and 
-database management, I excel at creating, deploying and maintaining robust applications. To mention, I love to work with a team. 
-</p>
-<h2>My Stack 🙂</h2>
-| <b> Python </b>
-| <b> C++ </b>
-| <b> MATLAB </b>
-| <b> TypeScript </b>
-| <b> JavaScript </b>
-<h2>Project Highlights</h2>
+## 👨‍💻 Profile Summary
 
-- <b>Bele The Bull</b>
-  - [More about Bele the Bull Website](https://github.com/MaivaSoftwares/NIHUB/blob/main/README.md)
-- <b></b>
-  - [More about I3C Website](https://github.com/MaivaSoftwares/IC3/blob/main/README.md) 
-- <b>Bele the Bull Launchpad</b>
-  - [more about Bele the Bull Launchpad](https://github.com/MaivaSoftwares/JUSTDEYLEARN/blob/main/README.md)
+I’m a passionate engineer who loves building intelligent systems. With a strong foundation in backend development, DevOps, system administration, and database design, I enjoy solving challenging problems at scale.
 
-<h2> 🤳 Connect with me:</h2>
+My journey spans embedded systems, AI integration, cloud deployment, and full-stack development—blending engineering intuition with real-world execution. I also thrive in collaborative environments and love working with agile, driven teams.
 
+---
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## ⚙️ My Tech Stack
 
+**Languages & Tools:**  
+`Python` • `C++` • `MATLAB` • `TypeScript` • `JavaScript` • `React.js` • `Node.js` • `MongoDB` • `MySQL` • `Tauri` • `Git`
 
-[linkedin]: https://www.linkedin.com/in/mustapha-dauda-05370822a/
+---
 
-<!--
+## 🚀 Project Highlights
 
-Here are some ideas to get you started:
+- **[Kaleido Finance](https://kaleidofinance.xyz/)**
+- **[Kaleido Launchpad](https://launchpad.kaleidofinance.xyz/)**
+- **[Bele the Bull](https://belethebull.xyz/)**
+- **[Bele the Bull Launchpad](https://launchpad.belethebull.xyz/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-dauda-05370822a/)
+[![X (Twitter)](https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mustapha78542)
