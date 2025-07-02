@@ -20,10 +20,10 @@ My journey spans embedded systems, AI integration, cloud deployment, and full-st
 
 ## 🚀 Project Highlights
 
-- **[Kaleido Finance](https://kaleidofinance.xyz/)**
-- **[Kaleido Launchpad](https://launchpad.kaleidofinance.xyz/)**
-- **[Bele the Bull](https://belethebull.xyz/)**
-- **[Bele the Bull Launchpad](https://launchpad.belethebull.xyz/)**
+- <b><a href="https://kaleidofinance.xyz/" target="_blank">Kaleido Finance</a></b>
+- <b><a href="https://launchpad.kaleidofinance.xyz/" target="_blank">Kaleido Launchpad</a></b>
+- <b><a href="https://belethebull.xyz/" target="_blank">Bele the Bull</a></b>
+- <b><a href="https://launchpad.belethebull.xyz/" target="_blank">Bele the Bull Launchpad</a></b>
 
 ---
 
