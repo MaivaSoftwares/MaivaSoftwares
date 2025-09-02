@@ -24,6 +24,7 @@ My journey spans embedded systems, AI integration, cloud deployment, and full-st
 - <b><a href="https://launchpad.kaleidofinance.xyz/" target="_blank">Kaleido Launchpad</a></b>
 - <b><a href="https://belethebull.xyz/" target="_blank">Bele the Bull</a></b>
 - <b><a href="https://launchpad.belethebull.xyz/" target="_blank">Bele the Bull Launchpad</a></b>
+- <b><a href="https://abstractmogu.xyz/" target="_blank">Abstract Mogu</a></b>
 
 ---
 
