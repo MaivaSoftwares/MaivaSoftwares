@@ -14,7 +14,7 @@ My journey spans embedded systems, AI integration, cloud deployment, and full-st
 ## ⚙️ My Tech Stack
 
 **Languages & Tools:**  
-`Python` • `C++` • `MATLAB` • `TypeScript` • `JavaScript` • `React.js` • `Node.js` • `MongoDB` • `MySQL` • `Tauri` • `Git`
+`Python` • `C++` • `MATLAB` • `Docker for Robotics` • `TypeScript` • `JavaScript` • `React.js` • `Node.js` • `MongoDB` • `MySQL` • `Tauri` • `Git`
 
 ---
 
