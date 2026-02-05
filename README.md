@@ -1,1 +1,31 @@
-# Hi, I'm Mustapha! 👋 ### Software Engineer & Systems Builder --- ## 👨‍💻 Profile Summary I’m a passionate engineer who loves building intelligent systems. With a strong foundation in backend development, DevOps, system administration, and database design, I enjoy solving challenging problems at scale. My journey spans embedded systems, AI integration, cloud deployment, and full-stack development—blending engineering intuition with real-world execution. I also thrive in collaborative environments and love working with agile, driven teams. --- ## ⚙️ My Tech Stack **Languages & Tools:** Python • C++ • MATLAB • Docker for Robotics • TypeScript • JavaScript • React.js • Node.js • MongoDB • MySQL • PostgreSQL• Tauri • Git --- ## 🚀 Project Highlights - <b><a href="https://kaleidofinance.xyz/" target="_blank">Kaleido Finance</a></b> - <b><a href="https://launchpad.kaleidofinance.xyz/" target="_blank">Kaleido Launchpad</a></b> - <b><a href="https://belethebull.xyz/" target="_blank">Bele the Bull</a></b> - <b><a href="https://launchpad.belethebull.xyz/" target="_blank">Bele the Bull Launchpad</a></b> - <b><a href="https://abstractmogu.xyz/" target="_blank">Abstract Mogu</a></b> --- ## 🤝 Connect with Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-dauda-05370822a/) [![X (Twitter)](https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mustapha78542)
+# Hi, I'm Mustapha! 👋
+
+### Software Engineer & Systems Builder
+
+---
+
+## 👨‍💻 Profile Summary
+I’m a passionate engineer who loves building intelligent systems. With a strong foundation in backend development, DevOps, system administration, and database design, I enjoy solving challenging problems at scale.
+
+My journey spans embedded systems, AI integration, cloud deployment, and full-stack development — blending engineering intuition with real-world execution. I thrive in collaborative environments and enjoy working with agile, driven teams.
+
+---
+
+## ⚙️ My Tech Stack
+**Languages & Tools:**  
+Python • C++ • MATLAB • Docker (Robotics) • TypeScript • JavaScript • React.js • Node.js • MongoDB • MySQL • PostgreSQL • Tauri • Git
+
+---
+
+## 🚀 Project Highlights
+- **[Kaleido Finance](https://kaleidofinance.xyz/)**
+- **[Kaleido Launchpad](https://launchpad.kaleidofinance.xyz/)**
+- **[Bele the Bull](https://belethebull.xyz/)**
+- **[Bele the Bull Launchpad](https://launchpad.belethebull.xyz/)**
+- **[Abstract Mogu](https://abstractmogu.xyz/)**
+
+---
+
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-dauda-05370822a/)  
+[![X (Twitter)](https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mustapha7)
