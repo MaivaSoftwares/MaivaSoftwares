@@ -1,31 +1,16 @@
-# Hi, I'm Mustapha! 👋
+Hi, I'm Mustapha 👋
+Energy-efficient device physics → neuromorphic photonics. MSc researcher at UESTC, working on the physics/policy co-design gap between device behavior and system-level control — currently pivoting that thread from MEMS sensing into photonic neural hardware.
 
-### Software Engineer & Systems Builder
+Research
+I work on the boundary between device physics and the control policies that run on top of it — where "efficiency" isn't just an algorithm problem, it's a hardware one.
 
----
+MSc thesis (UESTC, advisor Prof. Wu Zhou): found that a MEMS accelerometer's wake-transient response is a power-history state variable, not a constant — it drifts reversibly with the duty-cycling policy itself, meaning the control policy changes the physical constraint it's scheduled against. Built a digital-twin firmware model to validate this, then designed an adaptive controller around it (up to 93% energy savings with zero measurement-integrity violations, validated across a 12-hour, 70,000-cycle hardware soak).
+📄 "A Measured, Uncertainty-Banded Safe Operating Map for Duty-Cycling a Precision Closed-Loop MEMS Accelerometer" — submitted, IEEE Trans. Instrumentation and Measurement, 2026.
+📄 "Physics-Constrained Adaptive Duty-Cycling of a Precision Closed-Loop MEMS Accelerometer" — in preparation, IEEE Sensors Journal.
+Current focus: photonic neuromorphic computing — specifically, hardware/algorithm co-design for nonlinear computation and non-volatile (in-memory) weight storage in optical neural networks, at low manufacturable cost.
+Contributed to 镜联-01, an all-optical switching module for AI compute networks (documentation, IEEE submission support) — 2nd Prize, 15th "Challenge Cup" China College Students' Entrepreneurship Competition.
+Stack
+Research/hardware: COMSOL · MATLAB/Simulink · STM32 · PCB design (Altium, EasyEDA) · uncertainty quantification Software: Python · TypeScript/JavaScript · C/C++ · React · Node.js · PostgreSQL/MongoDB/MySQL · Docker · Git
 
-## 👨‍💻 Profile Summary
-I’m a passionate engineer who loves building intelligent systems. With a strong foundation in backend development, DevOps, system administration, and database design, I enjoy solving challenging problems at scale.
-
-My journey spans embedded systems, AI integration, cloud deployment, and full-stack development — blending engineering intuition with real-world execution. I thrive in collaborative environments and enjoy working with agile, driven teams.
-
----
-
-## ⚙️ My Tech Stack
-**Languages & Tools:**  
-Python • C++ • MATLAB • Docker (Robotics) • TypeScript • JavaScript • React.js • Node.js • MongoDB • MySQL • PostgreSQL • Tauri • Git
-
----
-
-## 🚀 Project Highlights
-- **[Kaleido Finance](https://kaleidofinance.xyz/)**
-- **[Kaleido Launchpad](https://launchpad.kaleidofinance.xyz/)**
-- **[Bele the Bull](https://belethebull.xyz/)**
-- **[Bele the Bull Launchpad](https://launchpad.belethebull.xyz/)**
-- **[Abstract Mogu](https://abstractmogu.xyz/)**
-
----
-
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-dauda-05370822a/)  
-[![X (Twitter)](https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mustapha7)
+Elsewhere
+Website · LinkedIn · X
