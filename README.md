@@ -18,7 +18,8 @@ I work on the boundary between device physics and the control policies that run 
 ## Stack
 
 **Research/hardware:** COMSOL · MATLAB/Simulink · STM32 · PCB design (Altium, EasyEDA) · uncertainty quantification
-**Software:** Python · TypeScript/JavaScript · C/C++ · React · Node.js · PostgreSQL/MongoDB/MySQL · Docker · Git
+
+**Software:** Python · C/C++ · Pytorch · TypeScript · Node.js · PostgreSQL/MongoDB/MySQL · Docker · Git 
 
 ## Elsewhere
 
